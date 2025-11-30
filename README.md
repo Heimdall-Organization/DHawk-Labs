@@ -2,10 +2,10 @@
   ◇    H E I M D A L L - O R G    ◇         
 
 
-# Crystalline Research
+# Crystalline Labs
 
 <p align="center">
-  <img src="assets/unified-framework.png" alt="Crystalline Framework" width="800"/>
+  <img src="assets/unified-framework.png" alt="Crystalline Labs" width="800"/>
 </p>
 
 <h3 align="center">Geometric Programming Languages</h3>
