@@ -382,10 +382,7 @@ All projects: [MIT License](LICENSE)
 </p>
 
 ---
-
-**Built by Chris Young** • Research in computational physics, programming language design, and geometric systems
+<p align="center">
+Built by Chris Young • Research in computational physics, programming language design, and AI systems
 </p>
 
----
-
-**Built by [Your Name]** • Research in computational physics, programming language design, and AI systems
