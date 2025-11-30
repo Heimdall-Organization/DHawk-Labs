@@ -2,10 +2,10 @@
   ◇    H E I M D A L L - O R G    ◇         
 
 
-# Crystalline Labs
+# D'Hawk Labs
 
 <p align="center">
-  <img src="assets/unified-framework.png" alt="Crystalline Labs" width="800"/>
+  <img src="assets/unified-framework.png" alt="D'Hawk Labs" width="800"/>
 </p>
 
 <h3 align="center">Geometric Programming Languages</h3>
