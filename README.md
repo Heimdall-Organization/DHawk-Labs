@@ -1,8 +1,5 @@
 
-  ◇    H E I M D A L L - O R G    ◇         
-
-
-# D'Hawk Labs
+  ◇    D ' H A W K - L A B S   ◇         
 
 
 <h3 align="center">Geometric Programming Languages and Knowledge Representation</h3>
